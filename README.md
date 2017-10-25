@@ -1,4 +1,4 @@
-#Predicting Balloon Altitude Using ML
+# Predicting Balloon Altitude Using ML
 
 Time vs. altitude using sequential random forest models. Developed by Samir Safwan, Stanford '20, for the Stanford Space Initiative.
 
